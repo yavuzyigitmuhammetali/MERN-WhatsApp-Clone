@@ -16,6 +16,7 @@ function CustomContextMenuDesign(props) {
     return (
 
         <div className="custom-context-container"
+             onClick={props.onClick}
             style={{
             position: "absolute",
             transition:"width 0.15s,height 0.15s, color 0.25s",
@@ -55,7 +56,7 @@ export function CustomContextMenu(props) {
         <div id={props.id} onClick={(event)=>setContextMenuPosition({ x: event.pageX, y: event.pageY })} className={props.className} onBlur={()=>setIsVisible(false)} tabIndex={0} onContextMenu={handleContextMenu}>
             {props.children}
             {contextMenuPosition&& (
-                    <CustomContextMenuDesign position={contextMenuPosition} isVisible={isVisible}>
+                    <CustomContextMenuDesign onClick={()=>setIsVisible(false)} position={contextMenuPosition} isVisible={isVisible}>
                         {Children.map(props.children, child =>
                             child.type.name==="ContextItem"&&child
                         )}
