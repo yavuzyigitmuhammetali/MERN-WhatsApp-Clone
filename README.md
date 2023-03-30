@@ -28,7 +28,7 @@ I'm creating a WhatsApp Web clone with modern web tech, featuring end-to-end enc
 
 As an inexperienced developer, I'm proud to showcase my skills in modern web development and my ability to create a fully-functional application without relying on pre-built components. Updates coming soon to further improve the app's functionality and security.
 <br/>
-![](https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/blob/master/img/1.JPG?raw=true)
+![](https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/blob/master/img/1.JPG)
 
 
 <br/>
