@@ -8,11 +8,11 @@
 
   <p align="center">
     Building WhatsApp Web clone using modern web tech for seamless messaging directly in users' browsers. No CSS libraries or pre-built components used, and all original features replicated - authentication, real-time messaging, chat windows, and delivery status. Frontend and backend developed with React.js and Node.js, respectively. Updates coming soon!
+ <br/>
     <br/>
-
     <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone"><strong>Explore the docs »</strong></a>
-
-
+    <br/>
+    <br/>
     <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/issues">Report Bug</a>
     .
     <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/issues">Request Feature</a>
@@ -20,6 +20,7 @@
 </p>
 
 ![Downloads](https://img.shields.io/github/downloads/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/total) ![Contributors](https://img.shields.io/github/contributors/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?color=dark-green) ![Forks](https://img.shields.io/github/forks/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?style=social) ![Stargazers](https://img.shields.io/github/stars/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?style=social) ![Issues](https://img.shields.io/github/issues/yavuzyigitmuhammetali/MERN-WhatsApp-Clone) 
+
 
 ## About The Project
 
