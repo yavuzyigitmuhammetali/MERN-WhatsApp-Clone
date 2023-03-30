@@ -18,9 +18,9 @@
     <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/issues">Request Feature</a>
   </p>
 </p>
-
+<p align="center">
 ![Downloads](https://img.shields.io/github/downloads/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/total) ![Contributors](https://img.shields.io/github/contributors/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?color=dark-green) ![Forks](https://img.shields.io/github/forks/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?style=social) ![Stargazers](https://img.shields.io/github/stars/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?style=social) ![Issues](https://img.shields.io/github/issues/yavuzyigitmuhammetali/MERN-WhatsApp-Clone) 
-
+</p>
 
 ## About The Project
 
