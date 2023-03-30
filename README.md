@@ -1,3 +1,51 @@
+<br/>
+<p align="center">
+  <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone">
+    <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Logo" >
+  </a>
+
+  <h3 align="center">MERN-WhatsApp-Clone</h3>
+
+  <p align="center">
+    Building WhatsApp Web clone using modern web tech for seamless messaging directly in users' browsers. No CSS libraries or pre-built components used, and all original features replicated - authentication, real-time messaging, chat windows, and delivery status. Frontend and backend developed with React.js and Node.js, respectively. Updates coming soon!
+ <br/>
+    <br/>
+    <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/issues">Report Bug</a>
+    .
+    <a href="https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/issues">Request Feature</a>
+  </p>
+</p>
+
+![Downloads](https://img.shields.io/github/downloads/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/total) ![Contributors](https://img.shields.io/github/contributors/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?color=dark-green) ![Forks](https://img.shields.io/github/forks/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?style=social) ![Stargazers](https://img.shields.io/github/stars/yavuzyigitmuhammetali/MERN-WhatsApp-Clone?style=social) ![Issues](https://img.shields.io/github/issues/yavuzyigitmuhammetali/MERN-WhatsApp-Clone) 
+
+
+## About The Project
+
+I'm creating a WhatsApp Web clone with modern web tech, featuring end-to-end encryption for secure messaging. The app replicates all the original features, including authentication, real-time messaging, chat windows, and message delivery status. Frontend and backend developed with React.js and Node.js, respectively. No pre-built components used, everything custom-built from scratch.
+
+As an inexperienced developer, I'm proud to showcase my skills in modern web development and my ability to create a fully-functional application without relying on pre-built components. Updates coming soon to further improve the app's functionality and security.
+<br/>
+<br/>
+![](https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/blob/master/img/1.JPG)
+![](https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/blob/master/img/2(new).gif)
+![](https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/blob/master/img/3.gif)
+![](https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/blob/master/img/4.gif)
+![](https://github.com/yavuzyigitmuhammetali/MERN-WhatsApp-Clone/blob/master/img/5.gif)
+<br/>
+<br/>
+<br/>
+
+### Creating A Pull Request
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -65,6 +113,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+<br/>
+<br/>
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* **Muhammet Ali** - *Software Engineering Student* - [Muhammet Ali](https://github.com/yavuzyigitmuhammetali) -
